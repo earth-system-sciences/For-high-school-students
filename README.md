@@ -6,4 +6,5 @@ This repository contains files to share and make high school students enthusiast
 
 <br>
 
-![Earth System Sciences]([main/Earth System Sciences onepager English.png](https://github.com/earth-system-sciences/For-high-school-students/blob/main/Earth%20System%20Sciences%20onepager%20English.png))
+![Earth System Sciences](https://github.com/earth-system-sciences/For-high-school-students/blob/main/Earth%20System%20Sciences%20onepager%20English.png
+
