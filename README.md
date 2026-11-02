@@ -1,5 +1,5 @@
 
-This repository contains files to share and make high school students enthusiastic about Wageningen University education in general and Earth System Sciences in particular. Please share!
+This repository contains files to share and make high school students enthusiastic about Wageningen University education in general and [Earth System Sciences](http://www.wur.nl/bsw) in particular. Please share!
 
 - Flyers about the Earth System Sciences programmes in Dutch, English, German, French, Spanish and Portugese
 - Flyers listing the study programmes related to soil, water and atmosphere (in Dutch)
